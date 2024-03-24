@@ -1,0 +1,14 @@
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\bin\Debug\net8.0\Exercise_03.exe
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\bin\Debug\net8.0\Exercise_03.deps.json
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\bin\Debug\net8.0\Exercise_03.runtimeconfig.json
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\bin\Debug\net8.0\Exercise_03.dll
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\bin\Debug\net8.0\Exercise_03.pdb
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.AssemblyInfoInputs.cache
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.AssemblyInfo.cs
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.csproj.CoreCompileInputs.cache
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.dll
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\refint\Exercise_03.dll
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.pdb
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\Exercise_03.genruntimeconfig.cache
+C:\Users\lolku\OneDrive\Рабочий стол\H_W_01\Exercise_03\obj\Debug\net8.0\ref\Exercise_03.dll
